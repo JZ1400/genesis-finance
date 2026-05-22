@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(unzip -l Genesis.zip)",
+      "Bash(unzip -o Genesis.zip -d .)",
+      "Bash(npm run *)",
+      "Bash(mkdir -p /Users/jhordanzelaya/.claude/projects/-Users-jhordanzelaya-Desktop-Genesis2/memory)",
+      "Bash(git init *)",
+      "Bash(git add *)",
+      "Bash(git commit *)"
+    ]
+  }
+}
